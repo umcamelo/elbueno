@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x334632c8cC0Bcf1F7BB2b62385B864CD69F43C20",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x334632c8cC0Bcf1F7BB2b62385B864CD69F43C20",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "RudeAngels",
+  "SYMBOL": "RANFT",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rudeangels-v2",
+  "SHOW_BACKGROUND": true
+}
